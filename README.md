@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @16Dinesh
+- 👋 Hi, I’m @16Dinesh - Dinesh R
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript Libraries
+- 💞️ I’m looking to collaborate on any Projects
+- 📫 How to reach me Mail-me-On --> DineshWonks@gmail.com
 
 <!---
 16Dinesh/16Dinesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
