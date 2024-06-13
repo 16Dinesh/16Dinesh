@@ -1,7 +1,7 @@
 [Mail](mailto:raghulpasupathi@gmail.com)- 👋 Hi, I’m @16Dinesh - Dinesh R
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on any Projects
+- 💞️ I’m looking to collaborate on JS Projects
 - 📫 How to reach me Mail-me-On -->[Mail](mailto:Dineshwonks@gmail.com)
 
 <!---
