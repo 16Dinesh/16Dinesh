@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on JS Projects
-- 📫 How to reach me Mail-me-On -->[Mail](mailto:Dineshwonks@gmail.com)
+- 📫 How to reach me [Mail](mailto:Dineshwonks@gmail.com)-me-On
 
 <!---
 16Dinesh/16Dinesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
