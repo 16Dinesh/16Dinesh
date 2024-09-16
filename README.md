@@ -1,6 +1,6 @@
-[Mail](mailto:raghulpasupathi@gmail.com)- 👋 Hi, I’m @16Dinesh - Dinesh R
+[Mail](mailto:Dineshwonks@gmail.com)- 👋 Hi, I’m @16Dinesh - Dinesh R
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning full-stack Devlopment
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me [Mail](mailto:Dineshwonks@gmail.com)-me-On
 
